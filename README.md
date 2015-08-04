@@ -1,4 +1,7 @@
 # Simple ticket
+
+![Image](http://png.findicons.com/files/icons/2836/flatastic_part_4/256/tickets.png)
+
 Sistema simples de tickets. Existem alguns sistemas com o mesmo propósito na internet, mas não gostei da estrutura, dos layouts. Estão meio "atrasados", remendados. Vou montar um novo sistema do 0 para atender essas necessidades:
 
 1) Abertura de chamados (Tickets)
